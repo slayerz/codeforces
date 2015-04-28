@@ -6,11 +6,11 @@ using namespace std;
 int main()
 {
 	string word[100];
-	int n=0, c=0;
+	int n, c, i;
 
 	cin >> n;
 
-	for(int i=0; i<n; i++)
+	for(i=0; i<n; i++)
 	{
 		cin >> word[i];
 		c = word[i].size();
@@ -18,9 +18,7 @@ int main()
 		if(c <= 10)
 			cout << word[i] << endl;
 		else
-		{
 			cout << word[i][0] << c-2 << word[i][c-1] << endl;
-		}
 	}
 
 	return 0;

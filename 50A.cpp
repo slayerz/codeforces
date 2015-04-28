@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	int n, m , max;
+	int n, m;
 
 	cin >> n >> m;
 	cout << floor(n*m/2);

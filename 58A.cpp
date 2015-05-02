@@ -7,17 +7,18 @@ int k=0;
 
 void check(string s, int i)
 {
-    int m;
+    int m, c;
 
     m = s.find(h[k], i);
+    c = h.size();
 
     if(m>=0)
     {
         k++;
 
-        if(k<5)
+        if(k<c)
             check(s, m+1);
-        if(k==5)
+        if(k==c)
         {
             k = 0;
             cout << "YES";
@@ -32,11 +33,7 @@ int main()
     string s;
 
     cin >> s;
-
-    if(s.size()>=5)
-        check(s, 0);
-    else
-        cout << "NO";
+    check(s, 0);
 
     return 0;
 }

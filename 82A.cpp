@@ -1,3 +1,5 @@
+//82A - Double Cola
+
 #include <iostream>
 
 using namespace std;
@@ -16,6 +18,6 @@ int main()
     }
 
     cout << queue[n-1];
-    
+
     return 0;
 }

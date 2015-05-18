@@ -1,3 +1,5 @@
+//379A - New Year Candles
+
 #include <iostream>
 #include <cmath>
 

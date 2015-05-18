@@ -1,3 +1,5 @@
+//318A - Even Odds
+
 #include <iostream>
 
 using namespace std;

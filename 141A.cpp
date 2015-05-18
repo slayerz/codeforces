@@ -1,3 +1,5 @@
+//141A - Amusing Joke
+
 #include <iostream>
 
 using namespace std;

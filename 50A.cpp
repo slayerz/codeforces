@@ -1,3 +1,5 @@
+//50A - Domino piling
+
 #include <iostream>
 #include <cmath>
 

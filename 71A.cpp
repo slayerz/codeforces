@@ -1,3 +1,5 @@
+//71A - Way Too Long Words
+
 #include <iostream>
 
 using namespace std;

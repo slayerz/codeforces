@@ -1,3 +1,5 @@
+//41A - Translation
+
 #include <iostream>
 #include <algorithm>
 

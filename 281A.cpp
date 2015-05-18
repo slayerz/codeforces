@@ -1,3 +1,5 @@
+//281A - Word Capitalization
+
 #include <iostream>
 
 using namespace std;

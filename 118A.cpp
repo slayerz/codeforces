@@ -1,3 +1,5 @@
+//118A - String Task
+
 #include <iostream>
 
 using namespace std;

@@ -6,8 +6,7 @@ using namespace std;
 
 int main()
 {
-	int g, i, s, taxi;
-	int sum1=0, sum2=0, sum3=0, sum4=0;
+	int g, i, s, taxi, sum1=0, sum2=0, sum3=0, sum4=0;
 
 	cin >> g;
 

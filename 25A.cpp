@@ -6,8 +6,7 @@ using namespace std;
 
 int main()
 {
-    int n, i, s[100];
-    int evenness=0;
+    int n, i, s[100], evenness=0;
 
     cin >> n;
 

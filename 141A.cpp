@@ -7,8 +7,7 @@ using namespace std;
 int main()
 {
     string a, b, c;
-    int i;
-    int letter[26]={0};
+    int i, letter[26]={0};
 
     cin >> a >> b >> c;
 

@@ -6,8 +6,7 @@ using namespace std;
 
 int main()
 {
-    int n, i, min, max;
-    int sum=0, m[1000]={0};
+    int n, i, min, max, sum=0, m[1000]={0};
 
     cin >> n;
 
@@ -20,7 +19,7 @@ int main()
             min = m[0];
             max = m[0];
         }
-        
+
         if(m[i]<min)
         {
             min = m[i];

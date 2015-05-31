@@ -6,8 +6,7 @@ using namespace std;
 
 int main()
 {
-    int n, m, i, k, s;
-    int flag=0;
+    int n, m, i, k, s, flag=0;
 
     cin >> n >> m;
 

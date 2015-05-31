@@ -6,8 +6,7 @@ using namespace std;
 
 int main()
 {
-    int n, p, q;
-    int room=0;
+    int n, p, q, room=0;
 
     cin >> n;
 

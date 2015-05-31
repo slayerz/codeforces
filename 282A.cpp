@@ -7,8 +7,7 @@ using namespace std;
 int main()
 {
     char x[5];
-    int n;
-    int sum=0;
+    int n, sum=0;
 
     cin >> n;
 

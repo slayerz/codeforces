@@ -8,8 +8,7 @@ using namespace std;
 int main()
 {
     string s;
-    int i;
-    int upper=0, lower=0;
+    int i, upper=0, lower=0;
 
     cin >> s;
 

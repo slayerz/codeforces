@@ -6,9 +6,8 @@ using namespace std;
 
 int main()
 {
-    int n, i;
+    int n, i, sumx=0, sumy=0, sumz=0;
     int x[100]={0}, y[100]={0}, z[100]={0};
-    int sumx=0, sumy=0, sumz=0;
 
     cin >> n;
 

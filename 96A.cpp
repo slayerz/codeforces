@@ -7,8 +7,7 @@ using namespace std;
 int main()
 {
     string team;
-    int i;
-    int sum0=0, sum1=0;
+    int i, sum0=0, sum1=0;
     bool danger=false;
 
     cin >> team;

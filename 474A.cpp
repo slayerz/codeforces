@@ -6,8 +6,7 @@ using namespace std;
 
 int main()
 {
-    string key = "qwertyuiopasdfghjkl;zxcvbnm,./";
-    string d, m;
+    string key = "qwertyuiopasdfghjkl;zxcvbnm,./", d, m;
     int i, k;
 
     cin >> d >> m;

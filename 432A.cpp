@@ -6,8 +6,7 @@ using namespace std;
 
 int main()
 {
-    int k, y, p;
-    int sum=0;
+    int k, y, p, sum=0;
 
     cin >> k >> y;
 
@@ -20,6 +19,6 @@ int main()
     }
 
     cout << sum/3;
-    
+
     return 0;
 }
